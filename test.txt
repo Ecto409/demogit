@@ -1,7 +1,3 @@
-ttrop bien
+Donc on pull en changeant de branche?
 
-trop cool
-
-
-
-ceci est dans le master
+Puis on modifie > save > commit et enfin on push
